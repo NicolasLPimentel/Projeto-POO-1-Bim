@@ -1,2 +1,12 @@
-# Projeto POO do 1° bimestre
-Projeto escolar da disciplina Programação Orientada a Objetos de 2024
+# Projeto-POO-1°Bim
+Aplicação para cálculo de desempenho esportivo.
+
+## 📖 Descrição
+Este programa em Python permite calcular e analisar a média de saltos de um atleta.
+
+## 📝 Funcionalidades
+- Recebe o nome do atleta e suas notas de salto.
+- Calcula a média de desempenho.
+- Exibe o atleta com a melhor média.
+
+---
